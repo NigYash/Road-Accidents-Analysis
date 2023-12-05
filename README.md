@@ -17,3 +17,5 @@ This repository contains a Power BI project that creates a dashboard for road ac
 
 ## Project Conclusion:
 The project analyzes road accident data to identify trends and insights related to accidents and casualties. The analysis focused on key performance indicators measuring accident severity, vehicle type, road type, and other factors.
+
+## Dashboard
