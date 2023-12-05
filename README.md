@@ -1,4 +1,4 @@
-# Prodigy_DS_01
+# Prodigy_DS_02
 ## Road_Accidents_Analysis
 ### Dataset:
 https://www.kaggle.com/datasets/richeeee/accident-data/data
